@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+body{
+    background: 
+    linear-gradient(rgba(0,0,0,0.7
+    ), rgba(0,0,0,0.7)),
+    url(fundo.png);
+    font-family: 'Roboto', sans-serif;
+
+}
+.texto-meio{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+
+}
+.nome{
+    font-size: 80px;
+    margin: 0;
+    font-weight: 400px;
+}
+.carac{
+    font-size: 24px;
+    font-weight: 300;
+}
+.carac-2{
+    font-weight: 200;
+    margin-bottom: 55px;
+}
+.github{
+    margin-top: 55px;
+    font-weight: 400;
+    margin: 0;
+    
+
+}
+.click{
+    margin: 0px;
+}
